@@ -3,6 +3,8 @@ Designed for linux
 
 main.cpp is an example that outputs the controller's values to the screen
 
-Compile and Run:
+[Compile]:
 g++ XboxController.cpp main.cpp -o controller
+
+[Run]:
 ./controller
